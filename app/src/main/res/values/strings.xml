@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Market Helper</string>
+    <string name="title_activity_main">Market Helper</string>
+
+    <string name="quantity">Qtd:</string>
+    <string name="price">Preço:</string>
+    <string name="total">Total:</string>
+    <string name="select">Selecionar</string>
+    <string name="add">Adicionar</string>
+    <string name="brand">Marca:</string>
+    <string name="name">Nome:</string>
+    <string name="edit">Editar</string>
+    <string name="edited_item">Item editado.</string>
+    <string name="insert_item_name">Insira o nome do item.</string>
+    <string name="regitered_item">Item cadastrado.</string>
+    <string name="regitered_market">Mercado cadastrado.</string>
+    <string name="insert_market_name">Insira o nome do mercado.</string>
+</resources>
